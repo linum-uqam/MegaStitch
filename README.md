@@ -1,6 +1,6 @@
 # MegaStitch: Robust Large Scale Image Stitching
 
-MegaStitch is a novel method for stitchig high resolution images in large scale while being robust to drift and inconsistencies. This method was originally developed as an open source tool for the Phytooracle team to geo-correct and stitch their high resolution large scale imagesets. You can find the paper [here](https://www.researchgate.net/profile/Ariyan-Zarei/publication/354153722_MegaStitch_Robust_Large_Scale_Image_Stitching/links/612803a70360302a005f3d62/MegaStitch-Robust-Large-Scale-Image-Stitching.pdf). 
+MegaStitch is a novel method for stitching high resolution images in large scale while being robust to drift and inconsistencies. This method was originally developed as an open source tool for the Phytooracle team to geo-correct and stitch their high resolution large scale imagesets. You can find the paper [here](https://www.researchgate.net/profile/Ariyan-Zarei/publication/354153722_MegaStitch_Robust_Large_Scale_Image_Stitching/links/612803a70360302a005f3d62/MegaStitch-Robust-Large-Scale-Image-Stitching.pdf). 
 
 This repository contains all the necessary code to run geo-correction and stitching procedures of MegaStitch method and to reproduce our results. If you find this method and the paper interesting and useful for your research, please cite us using the following bibliography. 
 
@@ -26,7 +26,7 @@ You can also find all the datasets as well as the Ground Control Points (GCPs) f
 You can install the package and its dependencies with this command:
 
 ```bash
-pip intall -e .
+pip install -e .
 ```
 
 We recommend to install this tool in a virtual environment.
